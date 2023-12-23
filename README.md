@@ -19,8 +19,8 @@ ProjetoProdutoCursoMatricula: Combinação dos conceitos anteriores, mostrando c
 
 JPA (Java Persistence API): Padrão de persistência de dados Java que fornece uma interface de programação para gerenciar entidades relacionais.
 Hibernate: Framework de mapeamento objeto-relacional (ORM) para Java, implementando a especificação JPA.
-5. Instruções de Uso:
 
+5. Instruções de Uso:
 Cada projeto possui uma classe Main no pacote principal, que contém um exemplo simples de utilização.
 Os testes JUnit em src/test/java fornecem casos de teste para os DAOs.
 
