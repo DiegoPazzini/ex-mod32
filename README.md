@@ -1,4 +1,4 @@
-# Projetos de Exemplo usando JPA (Java Persistence API) e Hibernate
+# Projetos usando JPA (Java Persistence API) e Hibernate
 
 1. Descrição Geral:
 Este repositório contém projetos de exemplo que demonstram o uso da API de Persistência Java (JPA) em conjunto com o framework Hibernate para interação com bancos de dados relacionais. Cada projeto aborda diferentes aspectos do uso dessas tecnologias, incluindo cadastro, pesquisa e exclusão de entidades.
